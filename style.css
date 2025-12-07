@@ -439,7 +439,7 @@ ul {
 }
 
 .main-banner {
-    padding: 200px 0 200px;
+    padding: 150px 0 150px;
     min-height: 100vh;
     position: relative;
 }
@@ -1494,7 +1494,7 @@ p {
 
 @media (max-width: 1199px) {
     .main-banner {
-        padding: 200px 0;
+        padding: 150px 0;
     }
     .banner-img-wp {
         height: 360px;
